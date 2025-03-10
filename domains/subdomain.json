@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/wowpkw/websitetest",
+    "owner": {
+        "username": "wowpkw",
+        "email": "24xcro@gmail.com"
+    },
+    "record": {
+        "CNAME": "wowpkw.github.io"
+    }
+}
